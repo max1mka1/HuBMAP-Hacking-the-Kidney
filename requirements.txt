@@ -1,0 +1,11 @@
+wheel==0.36.2
+numpy==1.20.1
+pandas==1.2.3
+matplotlib==3.4.0
+seaborn==0.11.1
+opencv-python==4.5.1.48
+GDAL==3.2.2
+rasterio==1.2.1
+tifffile==2021.3.17
+torch==1.7.1+cu101
+torchvision==0.8.2+cu101
